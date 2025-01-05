@@ -15,12 +15,12 @@ main {
 
 
 article {
-    flex: 2;  /* 2/3 of the space */
+    flex: 2;  
     overflow-y: auto;  
 }
 
 aside {
-    flex: 1;  /* 1/3 of the space */
+    flex: 1;  
     overflow-y: auto;  
 }
 
